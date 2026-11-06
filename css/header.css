@@ -1,5 +1,6 @@
 .main-header {
   /* Adicionar ... Alex */
+  background-color: var(--background-tertiary-color);
 }
 
 .logo {
